@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-body {
-  background-color: black;
+.wrap {
+  background-color: #121519;
   text-decoration-color: white;
 }
