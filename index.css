@@ -18,6 +18,10 @@
   margin-top: 10px;
 }
 
+.dropdown-toggle {
+  white-space: nowrap;
+}
+
 .navbar .dropdown-toggle::after {
   margin-top: 0.0625rem;
   font-size: 1.25rem;
@@ -53,4 +57,8 @@
   border-right: 0.3em solid rgba(0,0,0,0);
   border-bottom: 0;
   border-left: 0.3em solid rgba(0,0,0,0);
+}
+
+.navbar-nav {
+  color: white;
 }
